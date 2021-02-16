@@ -1,0 +1,6 @@
+package com.cryptocurrency
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
